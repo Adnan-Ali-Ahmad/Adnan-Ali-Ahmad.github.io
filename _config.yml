@@ -30,7 +30,7 @@ author:
   location         : "Lyon, France"
   employer         : "CNRS, CRAL - ENS Lyon"
   uri              : # URL
-  email            : "adnan-ali.ahmad@cnrs.fr" 
+  adnan-ali.ahmad@cnrs.fr            : "adnan-ali.ahmad@cnrs.fr" 
 
   # Academic websites
   #academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "adnan-ali-ahmad"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
