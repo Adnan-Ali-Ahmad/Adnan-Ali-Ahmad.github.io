@@ -1,6 +1,7 @@
 ---
 title: "Brown Dwarf Formation through Gravitational Collapse: Insights from 3D Numerical Simulations"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-10-01-Brown-Dwarf-Formation-through-Gravitational-Collapse-Insights-from-3D-Numerical-Simulations
 date: 2025-10-01
 venue: 'apjl'

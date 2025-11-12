@@ -1,6 +1,7 @@
 ---
 title: "Formation of low-mass protostars and their circumstellar disks"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-Formation-of-low-mass-protostars-and-their-circumstellar-disks
 date: 2024-07-01
 venue: 'aap'
