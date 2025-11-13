@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Paris, France"
 ---
 
-Python programming, signal processing, and fluid mechanics experimentation (2022 & 2023).
+Python programming, signal processing, and fluid mechanics experiments (2022 & 2023).
