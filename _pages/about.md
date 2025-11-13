@@ -13,6 +13,6 @@ My research directly addresses several long-standing challenges in astrophysics,
 
 Below are some projects I am currently working on:
 
-** Brown Dwarf Formation **
+Brown Dwarf Formation
 ======
-![Description of image](files/MHD_3D.png)
+![Editing a Markdown file for a talk](/files/MHD_3D.png)
