@@ -15,7 +15,10 @@ Below are some projects I am currently working on:
 
 Brown Dwarf Formation
 ======
-{% raw %}{% include video.html path="/files/output_timed.mp4" controls=true %}{% endraw %}
+<video controls width="100%">
+    <source src="/files/output_timed.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 Birth of protostars and circumstellar disks
 ======
