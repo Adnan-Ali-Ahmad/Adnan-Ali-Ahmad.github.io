@@ -11,7 +11,7 @@ At the Center for Astrophysical Research (CRAL) of ENS Lyon, I investigate the e
 
 My research directly addresses several long-standing challenges in astrophysics, including the angular momentum problem, the magnetic flux problem, the luminosity problem, and the disk mass problem. My work also extends to planetology, in which I offer insights on the transport of high-temperature condensates in the early solar system, thus allowing us to better interpret the composition of meteorites. My simulations incorporate advanced numerical techniques and leverage high-performance computing to achieve unprecedented fidelity in modeling these complex and highly non-linear astrophysical processes.
 
-Below are some projects I have worked on or am currently working on:
+Below is a curated gallery of my work:
 
 The Method: Adaptive Mesh Refinement (AMR)
 ======
@@ -36,3 +36,12 @@ Below, you can find a 3D animation showcasing the first month after the formatio
     <source src="/files/output_timed.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+Analyzing the radiative efficiency of protostellar shock fronts
+======
+
+![Editing a Markdown file for a talk](/files/lum_problem.png)
+
+CAI condensation
+======
+
