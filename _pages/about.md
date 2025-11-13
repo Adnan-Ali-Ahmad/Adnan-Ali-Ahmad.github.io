@@ -40,7 +40,7 @@ Below, you can find a 3D animation showcasing the first month after the formatio
 Analyzing the radiative efficiency of protostellar shock fronts
 ======
 
-![Editing a Markdown file for a talk](/files/lum_problem.png)
+![Editing a Markdown file for a talk](/files/lum_problem.pdf)
 
 CAI condensation
 ======
