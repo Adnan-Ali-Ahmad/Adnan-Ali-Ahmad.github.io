@@ -3,6 +3,7 @@ title: "The birth and early evolution of a low-mass protostar"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-12-01-The-birth-and-early-evolution-of-a-low-mass-protostar
+excerpt: 'This paper presents the highest-resolution 3D RHD simulations of protostellar interiors to date, revealing their internal turbulent structure.'
 date: 2023-12-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..23A/abstract'

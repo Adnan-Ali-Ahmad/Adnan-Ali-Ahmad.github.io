@@ -3,6 +3,7 @@ title: "Brown Dwarf Formation through Gravitational Collapse: Insights from 3D N
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-Brown-Dwarf-Formation-through-Gravitational-Collapse-Insights-from-3D-Numerical-Simulations
+excerpt: 'This letter presents the first 3D self-consistent simulations of brown dwarf born through isolated gravitational collapse.'
 date: 2025-10-01
 venue: 'The Astrophysical Journal Letters'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025ApJ...991L..32A/abstract'

@@ -3,6 +3,7 @@ title: "Birth of magnetized low-mass protostars and circumstellar disks"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-01-Birth-of-magnetized-low-mass-protostars-and-circumstellar-disks
+excerpt: 'This paper studies the birth of a magnetized protostar and circumstellar disk at sub-AU scales using 3D non-ideal MHD simulations.'
 date: 2025-04-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2025A%26A...696A.238A/abstract'

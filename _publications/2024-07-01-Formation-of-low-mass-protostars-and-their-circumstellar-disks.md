@@ -3,6 +3,7 @@ title: "Formation of low-mass protostars and their circumstellar disks"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-01-Formation-of-low-mass-protostars-and-their-circumstellar-disks
+excerpt: 'This paper studies the birth of circumstellar disks at sub-AU scales using 3D RHD simulations with unprecedented detail.'
 date: 2024-07-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..90A/abstract'

@@ -3,6 +3,7 @@ title: "Formation and evolution of a protoplanetary disk: Combining observations
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-01-Formation-and-evolution-of-a-protoplanetary-disk-Combining-observations-simulations-and-cosmochemical-constraints
+excerpt: 'This review incorporates cosmochemical constraints into a coherent model for the formation and evolution of the protosolar disk.'
 date: 2024-11-01
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.147M/abstract'
