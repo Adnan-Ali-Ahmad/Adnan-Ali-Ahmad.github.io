@@ -14,33 +14,9 @@ Education
 * PhD in Astrophysics, CEA / Université Paris Cité, 2021-2024
 * M.S. in Astrophysics, Université Côte d'Azur, 2019-2021
 * B.S. in Physics, Université Côte d'Azur, 2016-2019
-* Baccalauréat Scientifique, spécialité mathématiques, Lycée Gustave Eiffel (Maputo, Mozambique), 2016
+* Baccalauréat Scientifique, spécialité mathématiques, Lycée Gustave Eiffel (Maputo - Mozambique), 2016
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[You can download my complete academic CV here.](https://drive.google.com/file/d/1H2DzSkTDo_r7WaP7VMX7xCNe_s09S8TV/view?usp=sharing)
 
 Publications
 ======
@@ -59,7 +35,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
