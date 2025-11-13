@@ -15,6 +15,8 @@ Below are some projects I am currently working on:
 
 Brown Dwarf Formation
 ======
+
+Below, you can find a 3D animation showcasing the first month after the formation of a Brown Dwarf. Born with a radius of $$\approx 0.75\ \mathrm{R_{\odot}}$$ and mass $$\approx 0.8\ \mathrm{M_{Jup}}$$, it quickly grows by accreting from its surroundings. Angular momentum accretion also causes it to flatten along its equatorial regions.
 <video controls width="100%">
     <source src="/files/output_timed.mp4" type="video/mp4">
     Your browser does not support the video tag.
