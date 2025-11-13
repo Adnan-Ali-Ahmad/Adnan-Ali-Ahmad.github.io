@@ -16,7 +16,7 @@ Below is a curated gallery of my work:
 The Method: Adaptive Mesh Refinement (AMR)
 ======
 
-Simulating the birth of stars and disks presents a formidable numerical challenge, requiring a model that couples highly non-linear physics with an immense dynamic range. My simulations span over 17 orders of magnitude in density ($$10^{5}~-10^{22}\ \mathrm{cm^{-3}}$$) and 8 orders of magnitude in spatial extent ($$10^{4}~-10^{-4}\ \mathrm{AU}$$). To tackle this challenge, I employ Adaptive Mesh Refinement (AMR), which selectively increases resolution in collapsing regions. The animation below illustrates this dynamic range: the color map shows the gas column density, while the white contours trace the AMR levels, highlighting how the simulation adapts to resolve relevant structures across different scales.
+Simulating the birth of stars and disks presents a formidable numerical challenge, requiring a model that couples highly non-linear physics with an immense dynamical range. My simulations span over 17 orders of magnitude in density ($$10^{5}~-10^{22}\ \mathrm{cm^{-3}}$$) and 8 orders of magnitude in spatial extent ($$10^{4}~-10^{-4}\ \mathrm{AU}$$). To tackle this challenge, I employ Adaptive Mesh Refinement (AMR), which selectively increases the resolution in collapsing regions. The animation below illustrates this dynamical range: the color map shows the gas column density, while the white contours trace the AMR levels, highlighting how the simulation adapts to resolve relevant structures across different scales.
 <video controls width="100%">
     <source src="/files/the_great_zoom.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -40,7 +40,7 @@ Below, you can find a 3D animation showcasing the first month after the formatio
 Analyzing the radiative efficiency of protostellar shock fronts
 ======
 
-![Editing a Markdown file for a talk](/files/lum_problem.pdf)
+![Editing a Markdown file for a talk](/files/lum_problem.png)
 
 CAI condensation
 ======
