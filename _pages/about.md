@@ -15,4 +15,8 @@ Below are some projects I am currently working on:
 
 Brown Dwarf Formation
 ======
+{% raw %}{% include video.html path="assets/videos/simulation.mp4" controls=true %}{% endraw %}
+
+Birth of protostars and circumstellar disks
+======
 ![Editing a Markdown file for a talk](/files/MHD_3D.png)
