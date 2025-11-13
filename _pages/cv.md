@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Astrophysics, CEA / Université Paris Cité, 2021-2024
+* M.S. in Astrophysics, Université Côte d'Azur, 2019-2021
+* B.S. in Physics, Université Côte d'Azur, 2016-2019
+* Baccalauréat Scientifique, spécialité mathématiques, Lycée Gustave Eiffel (Maputo, Mozambique), 2016
 
 Work experience
 ======
