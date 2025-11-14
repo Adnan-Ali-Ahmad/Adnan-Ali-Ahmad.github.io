@@ -44,6 +44,11 @@ Protostars mainly shine by radiating away the incoming kinetic energy of the gas
 
 ![Editing a Markdown file for a talk](/files/lum_problem.png)
 
-CAI condensation
+Interpreting the meteoric record
 ======
 
+Calcium aluminium-rich inclusions (CAIs) are high-temperature condensates that directly cristalyzed close to the young Sun shortly after its formation. Their presence in carbonaceous chondrites beyond the orbit of Jupiter suggests that they were subsequently transported outward to the colder regions of the protoplanetary disk where these meteorites formed. My simulations investigate the early evolution of the protosolar disk and demonstrate a natural outward transport mechanism for CAIs via the expansion of the initially small disk. The animation below illustrates this process, disk surface in blue and the protostellar surface in green. White streamlines are velocity vector field streamlines that illustrate polar accretion into the protostar, and the image panels are cross-sectional slices displaying the radiative flux. Notice how efficient the expansion is, with the disk growing to $$\approx 0.5$$ AU in radius in less that 1.5 years.
+<video controls width="100%">
+    <source src="/files/disk_formation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
