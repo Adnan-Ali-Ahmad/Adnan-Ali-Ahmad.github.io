@@ -37,13 +37,6 @@ Brown Dwarf are rather puzzling objects: too massive to be planets, yet not enou
     Your browser does not support the video tag.
 </video>
 
-Analyzing the radiative efficiency of protostellar shock fronts
-======
-
-Protostars mainly shine by radiating away the incoming kinetic energy of the gas that they accrete as accretion luminosity $$L_{\mathrm{acc}}=\frac{GM_{*}\dot{M}}{R_{*}}$$. Understanding how this energy is processed at the protostellar shock front is crucial for accurately modeling the protostar's subsequent thermal evolution and for reliably quantifying its radiative feedback. By employing high-resolution simulations that fully resolve the radiative shock front, its radiative behavior can be studied in detail.
-
-![Editing a Markdown file for a talk](/files/lum_problem.png)
-
 Interpreting the meteoric record
 ======
 
@@ -52,3 +45,10 @@ Calcium aluminium-rich inclusions (CAIs) are high-temperature condensates that d
     <source src="/files/disk_formation.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+Analyzing the radiative efficiency of protostellar shock fronts
+======
+
+Protostars mainly shine by radiating away the incoming kinetic energy of the gas that they accrete as accretion luminosity $$L_{\mathrm{acc}}=\frac{GM_{*}\dot{M}}{R_{*}}$$. Understanding how this energy is processed at the protostellar shock front is crucial for accurately modeling the protostar's subsequent thermal evolution and for reliably quantifying its radiative feedback. By employing high-resolution simulations that fully resolve the radiative shock front, its radiative behavior can be studied in detail.
+
+![Editing a Markdown file for a talk](/files/lum_problem.png)
