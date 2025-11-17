@@ -31,12 +31,11 @@ While disks are often studied in their evolved stages as planet-forming environm
 Brown Dwarf Formation
 ======
 
-Brown Dwarf are rather puzzling objects: too massive to be planets, yet not enough to fuse hydrogen and be considered stars. Their dominant formation mechanism remains debated, with proposed scenarios including turbulent fragmentation, disk fragmentation, and ejection from multiple systems. My simulations explore the gravitational collapse of low-mass dense cores to simulate the direct formation of Brown Dwarfs. Below, you can find a 3D animation showcasing the first month after the formation of a Brown Dwarf through gravitational collapse. Born with a radius of $$\approx 0.75\ \mathrm{R_{\odot}}$$ and mass $$\approx 0.8\ \mathrm{M_{Jup}}$$, it quickly grows by accreting from its surroundings. Angular momentum accretion also causes it to flatten along its equatorial regions.
+[CNRS Press Release.](https://www.insu.cnrs.fr/fr/cnrsinfo/premiere-simulation-de-la-formation-dune-naine-brune-par-effondrement-gravitationnel) Brown Dwarf are rather puzzling objects: too massive to be planets, yet not enough to fuse hydrogen and be considered stars. Their dominant formation mechanism remains debated, with proposed scenarios including turbulent fragmentation, disk fragmentation, and ejection from multiple systems. My simulations explore the gravitational collapse of low-mass dense cores to simulate the direct formation of Brown Dwarfs. Below, you can find a 3D animation showcasing the first month after the formation of a Brown Dwarf through gravitational collapse. Born with a radius of $$\approx 0.75\ \mathrm{R_{\odot}}$$ and mass $$\approx 0.8\ \mathrm{M_{Jup}}$$, it quickly grows by accreting from its surroundings. Angular momentum accretion also causes it to flatten along its equatorial regions.
 <video controls width="100%">
     <source src="/files/output_timed.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-[CNRS Press Release.](https://www.insu.cnrs.fr/fr/cnrsinfo/premiere-simulation-de-la-formation-dune-naine-brune-par-effondrement-gravitationnel)
 
 Interpreting the meteoric record
 ======
