@@ -36,6 +36,7 @@ Brown Dwarf are rather puzzling objects: too massive to be planets, yet not enou
     <source src="/files/output_timed.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+[CNRS Press Release.](https://www.insu.cnrs.fr/fr/cnrsinfo/premiere-simulation-de-la-formation-dune-naine-brune-par-effondrement-gravitationnel)
 
 Interpreting the meteoric record
 ======
